@@ -21,3 +21,4 @@ Python problems were created for hacktoberfest-2022.
 - Words Frequency in String Shorthands
 - Find uncommon words from two Strings
 - Print even length words in a string
+- Even or Odd
